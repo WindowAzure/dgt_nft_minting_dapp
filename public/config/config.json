@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x21b455f8f1e5429ecae980ffbd63652e1d22dc4f",
+  "SCAN_LINK": "https://polygonscan.com/address/0x21b455f8f1e5429ecae980ffbd63652e1d22dc4f",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Dolphin Gun Tribe NFT",
+  "SYMBOL": "DGT",
+  "MAX_SUPPLY": 100,
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 0.1,
+  "GAS_LIMIT": 325000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/dgt-king",
+  "SHOW_BACKGROUND": true
+}
